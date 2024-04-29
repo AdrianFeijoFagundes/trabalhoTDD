@@ -1,0 +1,6 @@
+Desafios do TDD
+Apesar das vantagens, o Test-Driven Development também apresenta alguns desafios:
+
+Adoção inicial: Implementar o TDD em um projeto ou organização que não o utiliza pode ser difícil no início, especialmente se os membros da equipe não estiverem familiarizados com a abordagem.
+Curva de aprendizado: Aprender a escrever testes eficazes e implementar o ciclo vermelho-verde-refatorar pode levar tempo e esforço, especialmente para desenvolvedores sem experiência prévia em testes.
+Resistência à mudança: Mudar a mentalidade e as práticas de desenvolvimento pode ser difícil para algumas equipes e indivíduos que estão acostumados a abordagens tradicionais de desenvolvimento de software.

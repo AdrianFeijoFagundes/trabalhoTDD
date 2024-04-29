@@ -1,0 +1,36 @@
+quando usar:
+quando não usar:
+https://mercadoonlinedigital.com/blog/tdd/
+https://www.objective.com.br/insights/test-driven-development/
+
+frameworks de teste:
+
+https://www.treinaweb.com.br/blog/afinal-o-que-e-tdd
+
+
+refatoração, exemplo teste
+
+https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533
+https://blog.onedaytesting.com.br/test-driven-development/
+
+teste, ciclo tdd
+https://dev.to/matheusgomes062/tdd-e-seus-fundamentos-4i5e
+
+aplicações:
+https://coodesh.com/blog/dicionario/o-que-e-tdd/
+
+aplicacação, frameworks, refactor
+ 
+https://blog.xpeducacao.com.br/tdd-test-driven-development/
+
+desafios na aplicação:
+https://fwctecnologia.com/blog/post/tdd-test-driven-development
+
+varios tópicos interessantes:
+https://blog.betrybe.com/tecnologia/tdd-test-driven-development/
+
+geral:
+
+https://www.devmedia.com.br/tdd-fundamentos-do-desenvolvimento-orientado-a-testes/28151
+https://coodesh.com/blog/candidates/metodologias/tdd-e-seu-significado-por-que-ele-ajuda-a-aumentar-a-sua-produtividade/
+https://www.dio.me/articles/o-que-e-metodo-tdd-e-como-ele-pode-me-ajudar-no-desenvolvimento-de-aplicacoes

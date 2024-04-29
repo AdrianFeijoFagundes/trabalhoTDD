@@ -1,0 +1,21 @@
+Principais na minha opinião:
+
+• Garantia de Qualidade: Ao escrever testes antes do código, você garante que cada funcionalidade tenha um conjunto de testes que verifiquem seu comportamento esperado. Isso ajuda a identificar erros mais cedo e a evitar a introdução de bugs no código.
+
+*Refatoração segura*: Como os testes estão em vigor, você pode refatorar o código com confiança, sabendo que os testes detectarão regressões.
+*Documentação viva*: Os testes servem como documentação viva do comportamento do sistema.
+
+• Melhoria no Design: O TDD incentiva a modularidade e o desacoplamento do código. Ao definir os testes primeiro, você pensa em como a funcionalidade será usada antes de implementá-la, o que muitas vezes leva a um design mais eficaz.
+
+• Foco nos Requisitos: O processo TDD encoraja você a pensar sobre os requisitos e comportamentos esperados antes de começar a codificação. Isso ajuda a manter o foco na entrega de valor real aos usuários.
+
+
+
+
+
+eificiencia na correção de erros
+
+
+Sua técnica de desenvolvimento auxilia no entendimento do software para que suas regras fiquem bem claras antes mesmo de iniciar o processo de codificação, trazendo simplicidade e confiança para o código produzido.
+
+Existem diversos benefícios ao escrevermos os testes antes mesmo de realizar uma implementação. Um dos benefícios é que, como você vai saber o que o código precisa fazer antecipadamente, você acaba evitando de escrever código demasiadamente complexo ou que não siga os pré-requisitos de negócio.

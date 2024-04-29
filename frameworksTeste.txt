@@ -1,0 +1,10 @@
+.NET - NUnit
+PHP - PHPUnit
+Node ou Javascript - Jasmine
+Java - JUnit
+Python - PyUnit
+
+Junit 5: conhecido também como JUnit Jupiter, esse framework é um dos mais indicados para as aplicações em Java e JVM. Seu objetivo é ter uma base atualizada para testes Java, principalmente a partir do Java 8 em diante;
+
+
+NUnit: esse é o “Junit 5” da linguagem .NET. O NUnit é uma estrutura de teste de unidade de código aberto para toda linguagem .NET;

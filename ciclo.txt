@@ -1,0 +1,44 @@
+https://dev.to/matheusgomes062/tdd-e-seus-fundamentos-4i5e
+
+Red - Faça ele falhar
+
+Código é testável
+Escrevemos e especificamos a validação
+Green - Faça ele passar
+
+Código de acordo com o requerimento
+Solução mais simples que funciona
+Feito para passar no teste
+Blue - Refatore
+
+Limpeza do código
+Identação
+Remove code smells
+Repensa o design
+Deleta código desnecessário.
+Boas práticas!
+
+Teste falhando
+Nesse momento, o teste já está pronto. No entanto, uma vez que o código da função ainda não foi implementado, o teste obviamente vai falhar ao ser executado. Esse resultado é totalmente esperado e a execução é feita apenas para demonstrar que algo novo foi acrescentado ao conjunto de testes do sistema.
+
+Criar funcionalidade
+Após a execução e falha do teste, chega o momento de escrever o código da nova funcionalidade. Nesse ponto, a única preocupação que deve ter em mente é fazer o teste passar. Ou seja, você pode criar o código da sua maneira, sem se prender às boas práticas e design patterns, o importante é que o teste passe sem que outros quebrem com a adição da nova funcionalidade.
+
+Teste passando
+Com a funcionalidade pronta, o teste é executado novamente. Dessa vez, no entanto, é esperado que ele passe. Porém, mesmo que o código esteja funcionando, é preciso lembrar que ele foi feito da forma mais simples possível e sem considerar as boas práticas de desenvolvimento. Isso nos leva ao próximo passo.
+
+Refatorar
+As boas práticas de desenvolvimento nos ensinam que um bom código deve ser simples, claro, coeso e menos acoplado possível. A refatoração é usada exatamente para esse objetivo. Nessa etapa, você deve melhorar o seu código, extraindo classes e interfaces, reduzindo o acoplamento, retirando as duplicidades e fazendo qualquer alteração que traga alguma otimização, desde que elas não insiram erros no código.
+
+
+
+
+
+
+
+
+
+
+
+
+
