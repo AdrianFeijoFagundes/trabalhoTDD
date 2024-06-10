@@ -1,0 +1,14 @@
+{
+  "name": "exemplos",
+  "version": "1.0.0",
+  "description": "exemplos de testes com e sem framework",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "Adrian Feijó Fagundes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
