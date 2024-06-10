@@ -1,9 +1,0 @@
-O que não fazer durante o TDD? Os 6 principais erros!
-Se você não quer falhar na hora de utilizar o TDD, siga essas dicas:
-
-Sempre siga a ordem da metodologia;
-Preocupe-se em refatorar e melhorar o código;
-Não escreva vários testes simultaneamente;
-Execute os testes e obtenha o seu feedback;
-Não construa um ambiente de testes que demore muito tempo para ser executado;
-Não combine testes de integração com os testes unitários. Cada um deve ter o seu próprio arquivo de teste.

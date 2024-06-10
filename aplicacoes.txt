@@ -1,9 +1,0 @@
-https://coodesh.com/blog/dicionario/o-que-e-tdd/
-
-
-Aplicações 
-O método pode ser usado em qualquer projeto de software, independentemente do tamanho ou complexidade. Ele é especialmente útil em projetos de software mais críticos ou em que é importante garantir a qualidade e a confiabilidade do código.
-
-Ele também é importante em projetos de desenvolvimento de software open source, onde uma grande quantidade de desenvolvedores contribuem para o mesmo código. O TDD ajuda a garantir que o código produzido seja consistente e confiável, independentemente do desenvolvedor que o produziu.
-
-Além da produção de software, o TDD também é frequentemente utilizado em projetos de desenvolvimento de software para aplicações web, incluindo desenvolvimento front-end e back-end. Nesses casos, o TDD é usado para garantir que o código produzido atenda aos requisitos de qualidade, desempenho e segurança.
