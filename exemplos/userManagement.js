@@ -14,7 +14,18 @@ function validandoSenha(senha) {
     return contemCaractereEspecial && contemNumero && contemMaiuscula && tamanhoMinimo;
 }
 
+function verificandoEmail(email, listaDeEmails) {    
+    for (let i = 0; i < listaDeEmails.length; i++) {
+        if (listaDeEmails[i] === email) {
+            return true
+        }
+    }
+    return false
+}
+
+const registeredEmails = ["test@example.com", "user@example.com", "admin@example.com"];
 
 module.exports = {
-    validandoSenha
+    validandoSenha,
+    verificandoEmail
 }

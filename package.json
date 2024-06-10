@@ -4,7 +4,8 @@
   "description": "exemplos de testes com e sem framework",
   "main": "sum.js",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests",
+    "testA": "node ./exemplos/semFramework/testUserManagement.js"
   },
   "author": "Adrian Feijó Fagundes",
   "license": "ISC",
